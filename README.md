@@ -16,6 +16,12 @@ Open a terminal in this folder and run:
 python toolkit.py
 ```
 
-## Reflection — personalize before submitting
+## Reflection
 
-Use these prompts to write 5–8 sentences in your own words: Which part of planning or building was hardest for you? Which bug took you the longest to fix, and how did you find the cause? Which tool was most interesting to make? What did you learn about menu loops, lists, or conditionals? If you had one more week, what feature would you add? Replace this prompt with your own reflection before submitting.
+Personalize these five sentences so they truthfully describe your experience before submitting:
+
+1. The hardest part of this project for me was **[describe the part that was hardest]**.
+2. The bug that took me longest to fix was **[describe the bug]**.
+3. I found the cause by **[describe how you investigated it]**.
+4. The most useful thing I learned about loops, lists, or conditionals was **[describe what you learned]**.
+5. If I had one more week, I would add **[describe a feature you would build]**.
