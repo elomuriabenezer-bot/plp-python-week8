@@ -1,0 +1,21 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+Tools
+1. Number Guessing Game: The computer chooses a number from 1 to 10 and the player keeps guessing until they get it right.
+   Concepts: random numbers, input, while loop, conditionals, and f-strings.
+2. To-Do List: The user can add tasks, view all tasks, and remove a task while the program is running.
+   Concepts: list, append, remove, membership check, loops, conditionals, and f-strings.
+3. Simple Calculator: The user enters two numbers and chooses addition, subtraction, multiplication, or division.
+   Concepts: input, numeric conversion, conditionals, division-by-zero check, and f-strings.
+
+Exact menu text
+Welcome to your Personal Mini-Toolkit!
+Choose a tool:
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Quit
+Enter your choice (1-4):
+
+The menu appears again after each tool finishes. Invalid menu choices display:
+Please choose 1, 2, 3, or 4.
